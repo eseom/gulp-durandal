@@ -1,0 +1,30 @@
+{
+  "name": "bird79",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "EunseokEom <me@eseom.org>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bird79/static/bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "requirejs": "^2.2.0",
+    "jquery": "1.9.1 - 2"
+  },
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "Durandal": "durandal#^2.1.0",
+    "bootstrap": "^3.3.6",
+    "jquery": "^3.0.0",
+    "knockout": "^3.4.0",
+    "requirejs": "^2.2.0"
+  }
+}
